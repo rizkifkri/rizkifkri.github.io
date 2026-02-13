@@ -14,18 +14,18 @@ const noMessages = [
     "Kamu yakin? 🤔",
     "Poppy please... 🥺",
     "Kalo kamu gamau, ntar ayamnya nangis...",
-    "huhuhu... 😢",
-    "Please??? ",
-    "Ayolahhh...",
-    "Last chance! 😭",
-    "COba tangkap aku wekkk genduttt 😜"
+    "Please 😢",
+    "Coba tangkap aku wekkk gembrottt 😜",
+    "Coba tangkap aku wekkk gembrottt 😜",
+    "Coba tangkap aku wekkk gembrottt 😜",
+    "Coba tangkap aku wekkk gembrottt 😜"
 ]
 
 const yesTeasePokes = [
     "Coba tekan NO dulu... Lihat apa yang muncul 😏",
     "ayo tekan no... sekali aja 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
+    "TEKAN NO 😈",
+    "NO dulu, soalnya aku tau kamu pasti jawab YES wkwk 😏"
 ]
 
 let yesTeasedCount = 0
